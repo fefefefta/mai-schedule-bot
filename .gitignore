@@ -1,0 +1,12 @@
+# Python
+*.pyc
+*~
+__pycache__
+
+# Env
+myenv/
+
+# Database
+fav_querys_db.db
+create_table.txt
+
