@@ -1,7 +1,7 @@
 # mai-schedule-bot
 bot provides you with schedules of all university groups taken from MAI websitee
 
-it's main feature now is unactive because of exams in mai
+it's main feature now is inactive because of exams in mai
 
 ## Setting up
 1. clone a repo
