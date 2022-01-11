@@ -21,6 +21,12 @@ sqlite> CREATE TABLE fav_querys(
 ```
 3. put your token in token.txt in project dir
 
+4. get all packages from requirements.txt
+```
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+```
+
 ## How to use
 
 1. start the bot
